@@ -1,5 +1,6 @@
 #!/usr/bin/env -S grimaldi --kernel bento_kernel_pytorch
 # fmt: off
+# Copyright (c) Meta Platforms, Inc. and affiliates.
 
 """:py"""
 # 4/9/23
