@@ -1,4 +1,6 @@
 #!/bin/bash
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+
 bento console --file \[v2_\ multilayer\]\ Replication\ on\ ogbn-proteins_partIII_REVISED.py --kernel pytorch 50 &&
 bento console --file \[v2_\ multilayer\]\ Replication\ on\ ogbn-proteins_partIII_REVISED.py --kernel pytorch 51 &&
 bento console --file \[v2_\ multilayer\]\ Replication\ on\ ogbn-proteins_partIII_REVISED.py --kernel pytorch 52 &&
